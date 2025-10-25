@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # حط هنا التوكن بتاع البوت بتاعك من BotFather
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8314415283:AAELnf0LhZPLY9Xf8lMX29KCm52oq4CUoR4"
 
 # دالة تجيب سعر السهم من API مجاني
 def get_stock_price(symbol):
